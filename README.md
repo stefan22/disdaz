@@ -11,6 +11,6 @@ Fizzbuzz is a simple coding challenge, often described as a code kata. The objec
    and returns the message '**Fizzbuzz**'.
  * When passed something other than a number returns '**Please enter a number**'
  * When passed a negative number returns '**Please enter a positive number**'
- * When passed zero returns 'Please enter a number other than zero'
+ * When passed zero returns '**Please enter a number other than zero**'
  * In all other cases, the program simply returns the given number.
 
