@@ -5,7 +5,7 @@ def fizzbuzz number
     'Please enter a positive number'
   elsif number == 0
     'Please enter a number other than zero'
-  elsif number == 15
+  elsif number % 15 == 0
       'fizzbuzz'
   elsif number % 3 == 0
     'fizz'
